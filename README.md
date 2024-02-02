@@ -1,5 +1,5 @@
 # Poetry GHE Dependency Sample
-We are using self hosted Github Enterprise Server. So, the we have a customized url for github enterprise, which is https://github-partner.azc.ext.com. 
+We are using self hosted Github Enterprise Server. So, we have a customized url for github enterprise, which is https://github-partner.azc.ext.com. 
 In this sample, you can see that, I have a git repo dependency in pyproject.toml file. This repository is in our github enterprise server instance.
 Along with that, I have a python dependency Jinja2
 
